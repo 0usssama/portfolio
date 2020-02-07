@@ -29,7 +29,7 @@
 
               <div class="uk-child-width-1-2 uk-grid-small uk-padding-small" uk-grid>
                 <div>
-                  <a href="#" class="uk-button uk-button-secondary">
+                  <a :href="project.githubLink" class="uk-button uk-button-secondary">
                     <span uk-icon="github"></span>
                   </a>
                 </div>
