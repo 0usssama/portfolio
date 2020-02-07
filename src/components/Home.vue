@@ -4,7 +4,7 @@
       <h1 class="uk-heading-medium uk-padding">
         Hello, i'm
         <span style="color:#ffb400">BENOUNNAS Oussama</span>.
-        <br />i'm full-stack web developer
+        <br />i'm junior web developer
       </h1>
       <div class>
         <div class="uk-flex uk-flex-center" uk-grid>
